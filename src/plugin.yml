@@ -1,0 +1,13 @@
+name: Warp
+version: 1.0
+author: wehigami
+main: com.wehigami.warp.Warp
+api-version: 1.14
+commands:
+  warp:
+    description: teleports the player
+    usage: /<command>
+  farm:
+    description: chuj
+    usage: /<command>
+
